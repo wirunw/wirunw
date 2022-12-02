@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wirunw
 - 👀 I’m interested in Digital Health
-- 🌱 I’m currently learning Ph.D. in information technologo (specific in RPA for Healthcare)
+- 🌱 I’m currently learning Ph.D. in information technology (specific in RPA for Healthcare)
 - 💞️ I’m looking to collaborate on Digital Health Project.
 - 📫 How to reach me by email: wirun.wetsiri@gmail.com
 
