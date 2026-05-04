@@ -13,7 +13,7 @@ Strategic Consulting: Helping healthcare startups and organizations navigate the
 🎓 Academic Background
 Ph.D. in Information Technology: Focused on Robotic Process Automation (RPA) in Healthcare.
 
-MBA: Strategic business management in the pharmaceutical industry.
+MBA: Marketing Mamangement - Thammasart University.
 
 Bachelor of Pharmacy: Mahidol University.
 
